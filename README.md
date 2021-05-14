@@ -4,7 +4,8 @@
 * No Compilers 
 * No Libraries
 * No Boilerplate
-* 
+
+
 So, you've done a few courses and read a few books but still don't feel great about your relationship with JavaScript?
 
 ### How do you get better?
