@@ -2,7 +2,7 @@
 ## There is no formation without repetition
 So, you've done a few courses and read a few books but still don't feel great about your relationship with JavaScript?
 
-# How do you get better?
+### How do you get better?
 - Build things 
 - Lots of things
 - Build 1,000 things
@@ -14,7 +14,7 @@ But, what should I build? I have no ideas! Please don't make me do another todo 
 
 Ideas, Eh? Here you got lots! This is JavaScript30 — let's build 30 things together.
 
-# Who is this For?
+### Who is this For?
 Beginner to Intermediate developers and designers who want to become comfortable with both JavaScript fundamentals and working in the DOM without a library.
 
 You should already know some JavaScript to start - This isn't a JavaScript 101 course. If you are new to JavaScript, or want to just get comfortable with the fundamentals
