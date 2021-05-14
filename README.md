@@ -1,5 +1,5 @@
 # JavaScript30
-## There is no formation without repetition
+### There is no formation without repetition
 So, you've done a few courses and read a few books but still don't feel great about your relationship with JavaScript?
 
 ### How do you get better?
